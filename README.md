@@ -4,7 +4,7 @@ A collection of common SQL interview questions and solutions for Data Analyst ro
 
 ---
 
-## 📚 Database Schema
+## 📚 Database Schema 
 
 ### Customer Table
 
