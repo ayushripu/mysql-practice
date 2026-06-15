@@ -28,7 +28,7 @@ A collection of common SQL interview questions and solutions for Data Analyst ro
 
 ---
 
-## 📋 Topics Covered
+## 📋 Topics Covered 
 
 | Category | Concepts |
 |----------|----------|
